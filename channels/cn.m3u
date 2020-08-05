@@ -45,6 +45,8 @@ http://117.148.187.37/PLTV/88888888/224/3221226193/index.m3u8
 http://117.169.120.140:8080/live/cctv-13/.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News",CCTV中国中央电视台-13 新闻
 http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News",CCTV中国中央电视台-13 新闻
+http://113.200.131.81/tlivecloud-cdn.ysp.cctv.cn/38E363B74ED458FC4FAA33DC789BABE554B0A231221648D1D986606AFF00336D2A7C9058C7E4911282B078AB5717A20ADA4D367D830F5DADC6ECF7960EECDFA3C9EC08F46AAD06F9D0F15701E18A711B01E1A762AF4745A069FD0F754A99DACC3A1F98D6B3DC2229DE0D97C8E507359E0E508CA8D80C814842D74CFEAC2088F6C9E4CFC48A4752A6EE74F9E247B400EF8D742BB8BA1812C1591639DDE37DA955/2000204603.m3u8?from=player&svrtime=1594122670&pid=600001811&cdn=5501
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids",CCTV中国中央电视台-14 少儿
 http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids",CCTV中国中央电视台-14 少儿
